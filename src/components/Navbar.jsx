@@ -469,7 +469,7 @@ function Navbar() {
 
             {/* Logo */}
             <Link to="/" className="absolute left-4">
-              <img src={logo} alt="ZafaF Perfume" className="h-14 sm:h-80 mt-8" />
+              <img src="ZafaFperfumelogo.png" alt="ZafaF Perfume" className="h-14 sm:h-80 mt-8" />
             </Link>
 
             {/* Desktop Categories */}
