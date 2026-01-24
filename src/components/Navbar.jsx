@@ -286,6 +286,9 @@
 
 
 
+
+
+
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import {
   Heart,
@@ -297,7 +300,7 @@ import {
   ChevronDown,
 } from "lucide-react";
 import { useState, useEffect, useRef, useCallback } from "react";
-import logo from "../assets/ZafaFperfumelogo.png";
+import logo from "../assets/Zafafperfumelogo.png";
 
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
